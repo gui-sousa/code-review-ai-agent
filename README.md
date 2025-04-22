@@ -73,7 +73,9 @@ and the Gemini LLM, this project automates code inspection, ensuring compliance 
    ```sh
    pyhton main.py
    ```
-  
+
+  ![image](https://github.com/user-attachments/assets/03f674e0-2fac-4b2f-84ba-e23eb838dab3)
+
    
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -87,7 +89,7 @@ and the Gemini LLM, this project automates code inspection, ensuring compliance 
 
 Gui Sousa - https://www.linkedin.com/in/guilherme-sousa-rodrigues/
 
-Project Link: https://github.com/gui-sousa/aws-lumon-severance-app
+Project Link: https://github.com/gui-sousa/code-review-ai-agent/
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
